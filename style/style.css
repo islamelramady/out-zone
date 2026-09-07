@@ -275,7 +275,7 @@ main{
     width: 100%;
     min-height: 600px;
     height: min(90vh, 760px);
-    background: linear-gradient(90deg, rgba(247, 245, 240, .97) 0%, rgba(247, 245, 240, .84) 43%, rgba(217, 154, 36, .24) 100%), url(../images/main_background.jpg);
+    background: linear-gradient(90deg, rgba(247, 245, 240, .97) 0%, rgba(247, 245, 240, .84) 43%, rgba(217, 154, 36, .24) 100%), url(../images/main_backgroun.jpg);
     background-size: cover;
     background-position: center;
     background-blend-mode: normal, color, normal;
